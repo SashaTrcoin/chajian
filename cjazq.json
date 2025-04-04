@@ -2,12 +2,12 @@
     {
         "pathname": "miao-plugin",
         "pluginname": "喵喵插件(miao-plugin)",
-        "url": "https://gitee.com/yoimiya-kokomi/miao-plugin",
+        "url": "https://github.com/yoimiya-kokomi/miao-plugin",
         "author": "@喵喵",
         "describe": "Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能"
     },
     {
-        "pathname": "Guoba-plugin",
+        "pathname": "Guoba-Plugin",
         "pluginname": "锅巴插件(guoba-plugin)",
         "url": "https://gitee.com/guoba-yunzai/guoba-plugin",
         "author": "@zolay-poi",
@@ -22,10 +22,227 @@
     },
     {
         "pathname": "xiaoyao-cvs-plugin",
-        "pluginname": "逍遥插件(xiaoyao-cvs-plugin)",
-        "url": "https://gitee.com/Ctrlcvs/xiaoyao-cvs-plugin",
+        "pluginname": "逍遥插件(xiaoyao-cvs-pl ugin)",
+        "url": "https://github.com/Ctrlcvs/xiaoyao-cvs-plugin",
         "author": "@Ctrlcvs",
         "describe": "用于辅助yunzai图库使用"
+    },
+    {
+        "pathname": "NapCat-Plugin",
+        "pluginname": "NapCat插件(NapCat_Plugin)",
+        "url": "https://github.com/A1Panda/Napcat_Plugin",
+        "author": "@A1Panda",
+        "describe": "一个基于YunzaiBot的Napcat管理插件"
+    },
+    {
+        "pathname": "Bili-Plugin",
+        "pluginname": "B站插件(Bili-Plugin)",
+        "url": "https://github.com/miltrbefr/Bili-Plugin",
+        "author": "@NenNen_CN",
+        "describe": "支持B站账号管理/签到/直播监听/QQBot等功能"
+    },
+    {
+        "pathname": "mysMap",
+        "pluginname": "原神地图插件(mysMap)",
+        "url": "https://github.com/zzwh12/mysMap",
+        "author": "@zzwh12",
+        "describe": "基于 Yunzai-Bot v3 的 MCSManager 服务器管理插件，提供完整的远程控制和监控功能"
+    },
+    {
+        "pathname": "mcsmanager-plugin",
+        "pluginname": "Mcsmanager管理插件(mcsmanager-plugin)",
+        "url": "https://github.com/A1Panda/mcsmanager-plugin",
+        "author": "@A1_Panda",
+        "describe": "全新提瓦特地图资源查询"
+    },
+    {
+        "pathname": "Bxianx-plugin",
+        "pluginname": "不羡仙插件(Bxianx-plugin)",
+        "url": "https://github.com/bxianxo/bxianx-plugin",
+        "author": "@庆",
+        "describe": "网络查询工具，多类API远程查询控制功能"
+    },
+    {
+        "pathname": "juhkff-plugin",
+        "pluginname": "综合插件 (juhkff-plugin)",
+        "url": "https://github.com/juhkff/juhkff-plugin",
+        "author": "@扎克芙芙",
+        "describe": "主动回复群聊、表情偷取、日报推送等综合功能插件"
+    },
+    {
+        "pathname": "yunzai-yt-dl-plugin",
+        "pluginname": "YouTube/油管视频下载插件(yunzai-yt-dl-plugin)",
+        "url": "https://github.com/GangFaDeShenMe/yunzai-yt-dl-plugin",
+        "author": "@GangFaDeShenMe",
+        "describe": "云崽yunzai机器人youtube视频下载插件"
+    },
+    {
+        "pathname": "maimai-plugin",
+        "pluginname": "Maimai查分器（maimai-plugin）",
+        "url": "https://github.com/A1Panda/maimai-plugin",
+        "author": "@A1Panda",
+        "describe": "一个基于落雪DX查分器，支持查询玩家信息、好友码绑定、查询50首歌曲、查询50首歌曲的DX Rating"
+    },
+    {
+        "pathname": "howtocook",
+        "pluginname": "吃什么呢(howtocook)",
+        "url": "https://github.com/ikechan8370/howtocook",
+        "author": "@ikechan8370",
+        "describe": "* 吃什么呢 根据时间推荐早餐、午餐或晚餐 * 随机菜单+[类别] 随机推荐一道菜。"
+    },
+    {
+        "pathname": "meme-plugin",
+        "pluginname": "清语表情插件(memen-plugin)",
+        "url": "https://github.com/ClarityJS/meme-plugin",
+        "author": "@ClarityJS",
+        "describe": "清语表情， 一个Yunzai-Bot V3插件,表情包合成"
+    },
+    {
+        "pathname": "steam-plugin",
+        "pluginname": "steam插件 (steam-plugin)",
+        "url": "https://gitee.com/xiaoye12123/steam-plugin",
+        "author": "@小叶",
+        "describe": "提供steam相关功能, 如好友状态播报 查看库存 愿望单 搜索 等"
+    },
+    {
+        "pathname": "GloryOfKings-Plugin",
+        "pluginname": "王者荣耀插件(GloryOfKings-Plugin)",
+        "url": "https://gitee.com/Tloml-Starry/GloryOfKings-Plugin",
+        "author": "Tloml-Starry",
+        "describe": "通过扫码登录获取王者营地Token来查询战绩和主页信息等，更多功能王者相关功能正在制作。"
+    },
+    {
+        "pathname": "siliconflow-plugin",
+        "pluginname": "SF-插件 (siliconflow-plugin)",
+        "url": "https://github.com/AIGC-Yunzai/siliconflow-plugin",
+        "author": "@Misaka20002@syfantasy@eggacheb",
+        "describe": "基于 Yunzai 的 AIGC 插件，可免费使用 FLUX、SD、MJ 等绘图、LLM 推理、Vits语音合成等。"
+    },
+    {
+        "pathname": "icqq-monitoring-plugin",
+        "pluginname": "icqq检测-插件 (icqq-monitoring-plugin)",
+        "url": "https://gitee.com/xrk114514/icqq-monitoring-plugin",
+        "author": "@xrk114514",
+        "describe": "基于icqq的自动换签名插件，签名寄了自己换。"
+    },
+    {
+        "pathname": "YePanel",
+        "pluginname": "小叶面板 (YePanel)",
+        "url": "https://github.com/XasYer/YePanel",
+        "author": "@小叶",
+        "describe": "提供web管理面板"
+    },
+    {
+        "pathname": "siliconflow-plugin",
+        "pluginname": "SF-插件 (siliconflow-plugin)",
+        "url": "https://github.com/AIGC-Yunzai/siliconflow-plugin",
+        "author": "@Misaka20002 @syfantasy",
+        "describe": "基于 Yunzai 的 AIGC 插件，使用 siliconflow 等接口进行如 Flux 免费绘图和 LLM 推理等"
+    },
+    {
+        "pathname": "qiqi-plugin",
+        "pluginname": "七七插件(qiqi-plugin)",
+        "url": "https://gitee.com/gu-qii/qiqi-plugin",
+        "author": "@可乐不加冰",
+        "describe": "用于trss崩三信息查询"
+    },
+    {
+        "pathname": "yunzai-plugin-deer-pipe",
+        "pluginname": "🦌插件(yunzai-plugin-deer-pipe)",
+        "url": "https://gitee.com/kyrzy0416/yunzai-plugin-deer-pipe",
+        "author": "@kyrzy0416",
+        "describe": "✨ 每月🦌管签到 ✨"
+    },
+    {
+        "pathname": "micro-plugin",
+        "pluginname": "小微插件(micro-plugin)",
+        "url": "https://github.com/V2233/micro-plugin",
+        "author": "@Smallv",
+        "describe": "Yunzai开发管理面板，可在线生成简易插件、编辑图片、仿真QQ沙盒测试、数据库管理、文件管理、代码编辑、配置编辑、onebot连接、终端ssh连接等，详情见文档"
+    },
+    {
+        "pathname": "Lain-plugin",
+        "pluginname": "铃音插件(Lain-plugin)",
+        "url": "https://gitee.com/sky-summer/Lain-plugin",
+        "author": "@天空_夏日",
+        "describe": "此插件已被修改为适配本仓库云崽，原仓库已删库跑路，我也只维护QQbot"
+    },
+    {
+        "pathname": "Farming-Simulator",
+        "pluginname": "种田模拟器(Farming-Simulator)",
+        "url": "https://gitee.com/Tloml-Starry/Farming-Simulator",
+        "author": "@Tloml-Starry",
+        "describe": "俺是农村来滴，嫩城里人不会欺负农村人吧"
+    },
+    {
+        "pathname": "Bread-Shop",
+        "pluginname": "面包商店(Bread-Shop)",
+        "url": "https://gitee.com/Tloml-Starry/Bread-Shop",
+        "author": "@Tloml-Starry",
+        "describe": "由nonebot-plugin-bread-shop修改制作的Yunzai特供版本，面包小游戏，用户可以通过“买”，“吃”，“抢”，“送”，”猜拳“操作来获取面包和使用面包。一起来买面包吧！本插件不适宜用于群人员较多的群，经过测试，本功能具有极大上瘾性(比如修仙)，容易造成bot刷屏，影响正常聊天！建议建立专门的Bot游戏游玩群"
+    },
+    {
+        "pathname": "Slave-Market",
+        "pluginname": "群友市场(Slave-Market)",
+        "url": "https://gitee.com/Tloml-Starry/Slave-Market",
+        "author": "@Tloml-Starry",
+        "describe": "群友之间的增温小游戏，购买群友来替你打工，然后买下更多群友（doge"
+    },
+	{
+        "pathname": "Slave-Market",
+        "pluginname": "群友市场魔改版(Slave-Market)",
+        "url": "https://gitee.com/nanxu2019/Slave-Market",
+        "author": "@nanxu2019",
+        "describe": "相较于Tloml-Starry的原版，增加了贷、还款功能，并计算了利息，用黑奴打工的钱买更多的黑奴，他不香吗？更多功能待续。。。 "
+    },
+    {
+        "pathname": "Elysian-Realm-plugin",
+        "pluginname": "崩坏三乐土插件(Elysian-Realm-plugin)",
+        "url": "https://github.com/zipated/Elysian-Realm-plugin",
+        "author": "@zipated",
+        "describe": "崩坏3乐土攻略查询插件"
+    },
+    {
+        "pathname": "sv-plugin",
+        "pluginname": "星露谷插件(sv-plugin)",
+        "url": "https://gitee.com/xingdonglcy/sv-plugin",
+        "author": "@LCY星动",
+        "describe": "简单查询星露谷村民、物品以及星露谷大学（看看你属于哪个校区）功能的插件"
+    },
+    {
+        "pathname": "eso-plugin",
+        "pluginname": "上古卷轴OL插件(eso-plugin)",
+        "url": "https://github.com/ChicorSun/eso",
+        "author": "@Chicor和人",
+        "describe": "游戏上古卷轴OL查询功能插件，支持查询服务器状态、维护公告、装备图鉴、每日日常无畏副本等功能"
+    },
+    {
+        "pathname": "yjwj-plugin",
+        "pluginname": "永劫无间插件(yjwj-plugin)",
+        "url": "https://gitee.com/njmxye/yjwj-plugin",
+        "author": "@楠寻",
+        "describe": "游戏永劫无间查询功能插件，支持查询永劫无间官方影画廊海报与实机截图、查询端游表情包、获取每日60秒新闻早报等功能。大神战绩查询、永劫无间世界观查询、群聊小游戏、Galgame接入kimi对话等功能正在火热开发中"
+    },
+    {
+        "pathname": "cb-plugin",
+        "pluginname": "尘白禁区插件(cb-plugin)",
+        "url": "https://github.com/Sakura1618/cb-plugin",
+        "author": "@Sakura1618",
+        "describe": "游戏尘白禁区查询功能插件，支持查询角色攻略、养成材料、强度榜等功能"
+    },
+    {
+        "pathname": "bujidao",
+        "pluginname": "自动签到过码(bujidao)",
+        "url": "https://github.com/kissnavel/bujidaoRUN",
+        "author": "@kissnavel",
+        "describe": "yunzai v3 插件，自用修改，已添加国际服支持，建议仅保留签到功能，用锅巴插件屏蔽其他功能，其他功能有更好的替代。"
+    },
+    {
+        "pathname": "GT-Manual",
+        "pluginname": "手动过码(GT-Manual)",
+        "url": "https://gitee.com/haanxuan/GT-Manual",
+        "author": "@XxxX",
+        "describe": "米游社手动验证"
     },
     {
         "pathname": "liangshi-calc",
@@ -35,15 +252,106 @@
         "describe": "miao-plugin的面板拓展插件"
     },
     {
-        "pathname": "DF-plugin",
-        "pluginname": "DF-plugin",
+        "pathname": "San-plugin",
+        "pluginname": "San插件(San-plugin)",
+        "url": "https://gitee.com/San-luo/San-plugin",
+        "author": "@San散",
+        "describe": "业余时间学习编写,随缘更新 摸鱼中~~~"
+    },
+    {
+        "pathname": "fufu-plugin",
+        "pluginname": "芙芙插件(fufu-plugin)",
+        "url": "https://gitee.com/trubin/fufu-plugin",
+        "author": "@Trubin",
+        "describe": "一些小插件，随缘更新"
+    },
+    {
+        "pathname": "kkkkkk-10086",
+        "pluginname": "k插件(kkkkkk-10086)",
+        "url": "https://gitee.com/ikenxuan/kkkkkk-10086",
+        "author": "@ikenxuan",
+        "describe": "🦄kkkkkk-10086是一个Miao-Yunzai & TRSS-Yunzai & Karin 的自用辅助插件，提供对Bot的视频解析功能，更多信息请移步文档"
+    },
+    {
+        "pathname": "help-plugin",
+        "pluginname": "DIY帮助插件(help-plugin)",
+        "url": "https://gitee.com/tu-zhengxiong0925/help-plugin",
+        "author": "@饺子",
+        "describe": "提供美化帮助菜单，支持DIY，可一键同步喵喵帮助"
+    },
+    {
+        "pathname": "ark-plugin",
+        "pluginname": "喵喵排名插件(ark-plugin)",
+        "url": "https://github.com/NotIvny/ark-plugin",
+        "author": "@NotIvny",
+        "describe": "为喵喵插件提供总排名与排名统计，不再局限于群排名的插件，兼容梁氏"
+    },
+    {
+        "pathname": "yuki-plugin",
+        "pluginname": "优纪插件(yuki-plugin)",
+        "url": "https://gitee.com/snowtafir/yuki-plugin",
+        "author": "@snowtafir",
+        "describe": "一个适用于 Yunzai (Miao/Trss/Next) 系列机器人框架 的B站动态和微博动态订阅推送插件"
+    },
+    {
+        "pathname": "luoluo-plugin",
+        "pluginname": "落落插件(luoluo-Plugin)",
+        "url": "https://gitee.com/yll0614/luoluo-plugin",
+        "author": "@叶落落",
+        "describe": "没什么用的小破api娱乐性插件 提供随机动漫图 哔哩哔哩视频解析 Ping等功能"
+    },
+    {
+        "pathname": "esca-plugin",
+        "pluginname": "Esca插件(Esca-Plugin)",
+        "url": "https://gitee.com/escaped-spark/esca-plugin",
+        "author": "@逸燧",
+        "describe": "功能性插件，提供随机图/视频，备案查询等功能"
+    },
+    {
+        "pathname": "memz-plugin",
+        "pluginname": "MEMZ-Plugin",
+        "url": "https://github.com/MEMLTS/memz-plugin",
+        "author": "@memzjs",
+        "describe": "提供了一些web工具等"
+    },
+	{
+        "pathname": "hl-ly-plugin",
+        "pluginname": "狐狸插件(hl-ly-plugin)",
+        "url": "https://gitee.com/fox-glaze/hl-ly-plugin",
+        "author": "@狐狸",
+        "describe": "提供随机二次元图片/三次元视频，快捷群管等功能。 "
+    },
+	{
+        "pathname": "Koinori",
+        "pluginname": "云冰祈插件(Koinori)",
+        "url": "https://gitee.com/Yuzichai/Koinori",
+        "author": "@Yuzichai",
+        "describe": "搭建于云端，集娱乐与管理功能于一体的轻量化插件，提供碧蓝档案、Arcaea等wiki查询。 "
+    },
+    {
+        "pathname": "better-rc",
+        "pluginname": "better-rc",
+        "url": "https://gitee.com/Vremq_vperyod/better-rc",
+        "author": "@Vremq_vperyod",
+        "describe": "交互式远程命令执行与定时任务"
+    },
+    {
+        "pathname": "Olympic-plugin",
+        "pluginname": "Olympic-plugin",
+        "url": "https://gitee.com/xiaomifan233/olympic-plugin",
+        "author": "@小米饭",
+        "describe": "提供有关巴黎奥运会的一些查询功能"
+    },
+    {
+        "pathname": "DF-Plugin",
+        "pluginname": "DF-Plugin",
         "url": "https://gitee.com/DenFengLai/DF-Plugin",
         "author": "@等风来",
         "describe": "提供了用户联系主人、Git仓库更新推送到群聊、随机表情包戳一戳、随机图片、图片自动添加外显等功能，推荐使用锅巴插件进行配置。"
     },
     {
-        "pathname": "ZZZ-plugin",
-        "pluginname": "绝区零插件(ZZZ-plugin)",
+        "pathname": "ZZZ-Plugin",
+        "pluginname": "绝区零插件(ZZZ-Plugin)",
         "url": "https://github.com/ZZZure/ZZZ-plugin",
         "author": "@bietiaop",
         "describe": "Yunzai绝区零Bot插件"
@@ -128,9 +436,9 @@
     {
         "pathname": "yenai-plugin",
         "pluginname": "椰奶插件(yenai-plugin)",
-        "url": "https://gitee.com/qsyhh/yenai-plugin",
+        "url": "https://gitee.com/yeyang52/yenai-plugin",
         "author": "@椰羊",
-        "describe": "来自其实雨很好适配三叶草去除后门的椰奶【不提供官方带后门版椰奶的安装，如果需要请在插件链接寻找源仓库地址】"
+        "describe": "🐑Yenai-Plugin是一个Yunzai-Bot的扩展插件，提供对Bot的一些便捷操作。"
     },
     {
         "pathname": "neko-status-plugin",
@@ -156,8 +464,8 @@
     {
         "pathname": "starlight-qsign",
         "pluginname": "星点签名（starlight-qsign）",
-        "url": "https://gitee.com/OvertimeBunny/starlight-qsign",
-        "author": "@重装小秃",
+        "url": "https://gitlab.com/v17360963/starlight-qsign",
+        "author": "@wuliya336",
         "describe": "向机器发送信息可自动获取可用的免费签名"
     },
     {
@@ -175,11 +483,11 @@
         "describe": "表情包仓库、拿群聊表情包、今日运势、算一卦、GPT塔罗牌、定时发图、自带图源（logier严选）、资讯推送"
     },
     {
-        "pathname": "Fanji-plugin",
-        "pluginname": "反击插件(fanji-plugin)",
-        "url": "https://gitee.com/adrae/Fanji-plugin",
+        "pathname": "ad-plugin",
+        "pluginname": "Ad插件(ad-plugin)",
+        "url": "https://gitee.com/adrae/ad-plugin",
         "author": "@Admilk",
-        "describe": "被群友戳一戳了？反击！（内含清凉图调用！）更多内容发送#反击帮助 (该插件存在问题，可能会导致机器人无法响应，请谨慎决定是否安装)"
+        "describe": "一些实用功能________"
     },
     {
         "pathname": "gpti-plugin",
@@ -213,8 +521,8 @@
         "pathname": "icqq-plugin",
         "pluginname": "ICQQ-plugin",
         "url": "https://gitee.com/lylnspace/icqq-plugin",
-        "author": "@Zyy955",
-        "describe": "应群友要求做的icqq多开插件、测试阶段~如有bug多多包涵~ "
+        "author": "@柳云零奈",
+        "describe": "适用于Miao-Yunzai的icqq多开插件~"
     },
     {
         "pathname": "tg-plugin",
@@ -222,13 +530,6 @@
         "url": "https://gitee.com/misakime/tg-plugin.git",
         "author": "@misakime",
         "describe": "自动推送沙雕图和新番消息的插件"
-    },
-    {
-        "pathname": "WeChat-Web-plugin",
-        "pluginname": "WeChat-Web-plugin",
-        "url": "https://gitee.com/Zyy955/WeChat-Web-plugin",
-        "author": "@Zyy955",
-        "describe": "支持`Linux`，适用于`Miao-Yunzai`和`Yunzai-Bot`的网页版微信机器人插件。"
     },
     {
         "pathname": "btc-memz-plugin",
@@ -245,16 +546,9 @@
         "describe": "各大平台热搜榜单，搜索菜谱等功能，还附带轻量的修炼小游戏(适合大群，不会因为游戏功能太多导致刷屏),更多其他功能仍在咕咕咕 "
     },
     {
-        "pathname": "WeChat-plugin",
-        "pluginname": "WeChat-plugin",
-        "url": "https://gitee.com/Zyy955/WeChat-plugin",
-        "author": "@Zyy955",
-        "describe": "应用端仅支持`Windows`，适用于`Miao-Yunzai`和`Yunzai-Bot`的微信机器人插件。可搭配[apps.js](https://gitee.com/Zyy955/Yunzai-Bot-plugin)插件直接使用微信而无需登录QQ "
-    },
-    {
-        "pathname": "ttsapi-yunzai-plugin",
-        "pluginname": "语音合成api插件(ttsapi-yunzai-plugin)",
-        "url": "https://gitee.com/TsaiXingyu/ttsapi-yunzai-plugin",
+        "pathname": "ttsapi-yunzai-Plugin",
+        "pluginname": "语音合成api插件(ttsapi-yunzai-Plugin)",
+        "url": "https://gitee.com/TsaiXingyu/ttsapi-yunzai-Plugin",
         "author": "@古手梨花",
         "describe": "vitsapi版现已支持原神4.0角色与svc唱歌 "
     },
@@ -273,13 +567,6 @@
         "describe": "可以配合minecraft的servertap插件在qq群/qq频道控制mc进行添加白名单，输入指令等操作 "
     },
     {
-        "pathname": "QQGuild-plugin",
-        "pluginname": "QQGuild-plugin",
-        "url": "https://gitee.com/Zyy955/QQGuild-plugin",
-        "author": "@Zyy955",
-        "describe": "使用[NodeJS-SDK](https://github.com/tencent-connect/bot-node-sdk)进行交互... 可搭配[apps.js](https://gitee.com/Zyy955/Yunzai-Bot-plugin)插件直接使用频道而无需登录QQ "
-    },
-    {
         "pathname": "mz-plugin-alemon",
         "pluginname": "名字插件(mz-plugin)",
         "url": "https://gitee.com/xyb12345678qwe/mz-plugin-alemon",
@@ -289,23 +576,16 @@
     {
         "pathname": "Gi-plugin",
         "pluginname": "互动插件(Gi-plugin)",
-        "url": "https://gitee.com/qiannqq/gi-plugin",
+        "url": "https://gitee.com/qiannqq/Gi-plugin",
         "author": "@千奈千祁",
         "describe": "Yunzai娱乐性扩展插件，包含漂流瓶、每日随机幸运值、模拟高考查分、群历史文献、钓鱼小游戏等娱乐功能"
     },
     {
-        "pathname": "reset-qianyu-plugin",
-        "pluginname": "重置版千羽插件(reset-qianyu-plugin)",
-        "url": "https://gitee.com/think-first-sxs/reset-qianyu-plugin",
-        "author": "@think-first-sxs",
-        "describe": "对千羽插件进行重置，优化功能，一个咕咕咕插件 "
-    },
-    {
         "pathname": "biscuit-plugin",
         "pluginname": "饼干插件(biscuit-plugin)",
-        "url": "https://gitee.com/Yummy-cookie/biscuit-plugin",
+        "url": "https://github.com/Yummy-cookie/biscuit-plugin",
         "author": "@Yummy-cookie",
-        "describe": "一些功能比如ping，ikun音乐 "
+        "describe": "全新版本，yunzai的多功能插件"
     },
     {
         "pathname": "xrk-plugin",
@@ -350,18 +630,11 @@
         "describe": "提供碧蓝档案的一些有用的或没有用的攻略帮助 "
     },
     {
-        "pathname": "Yunzai-Kuro-plugin",
-        "pluginname": "库洛插件<br />(Yunzai-Kuro-plugin)",
-        "url": "https://github.com/TomyJan/Yunzai-Kuro-plugin",
+        "pathname": "Yunzai-Kuro-Plugin",
+        "pluginname": "库洛插件<br />(Yunzai-Kuro-Plugin)",
+        "url": "https://github.com/TomyJan/Yunzai-Kuro-Plugin",
         "author": "@TomyJan",
         "describe": "库洛游戏插件 "
-    },
-    {
-        "pathname": "xiaoyue-plugin",
-        "pluginname": "小月插件 (xiaoyue-plugin)",
-        "url": "https://gitee.com/bule-Tech/xiaoyue-plugin",
-        "author": "@bule-Tech",
-        "describe": "由云溪院提供的最后一版小月插件,有戳一戳,抖音,blbl解析,插件及插件包安装等功能,现已无法更新 "
     },
     {
         "pathname": "TianRu-plugin",
@@ -369,13 +642,6 @@
         "url": "https://gitee.com/HDTianRu/TianRu-plugin",
         "author": "@天如",
         "describe": "获取\"提瓦特小助手\"抽卡记录，执行各种语言代码，模拟指定QQ执行指令，生成二维码，将数字变成114514组合的恶臭数字....等各种小功能"
-    },
-    {
-        "pathname": "panel-plugin",
-        "pluginname": "面板插件 (panel-plugin)",
-        "url": "https://gitee.com/yunzai-panel/panel-plugin",
-        "author": "@硫酸钡Barite",
-        "describe": "对[喵喵插件](https://gitee.com/yoimiya-kokomi/miao-plugin)的面板数据提供操作：转换旧版圣遗物格式、适配[Gspanel](https://github.com/monsterxcn/nonebot-plugin-gspanel)、备份面板 "
     },
     {
         "pathname": "ql-plugin",
@@ -386,24 +652,17 @@
     },
     {
         "pathname": "kkp-plugin",
-        "pluginname": "KKP插件 (kkp-plugin)",
+        "pluginname": "KKP插件",
         "url": "https://gitee.com/dungeonmaster/kkp-plugin",
         "author": " @所有二刺螈都得死 ",
         "describe": "看看P站图和23次元蛇图和其他小功能 "
     },
     {
         "pathname": "avocado-plugin",
-        "pluginname": "鳄梨插件 (Avocado-plugin) ",
+        "pluginname": "鳄梨插件 (Avocado-Plugin) ",
         "url": "https://github.com/Qz-Sean/avocado-plugin",
         "author": "@Qz-Sean",
         "describe": "支持查询热映电影信息、天气查询、md渲染、灵活的网页预览与翻译、只为一个人疯狂(发癫)、抽象的指令规则"
-    },
-    {
-        "pathname": "cunyx-plugin",
-        "pluginname": "寸幼萱插件(cunyx-plugin) ",
-        "url": "https://gitee.com/cunyx/cunyx-plugin",
-        "author": "@最好喝的小米粥",
-        "describe": "改版完成，欢迎安装(安装前请阅读[README.md](https://gitee.com/cunyx/cunyx-plugin/blob/master/README.md)获得最佳体验"
     },
     {
         "pathname": "ws-plugin",
@@ -411,27 +670,6 @@
         "url": "https://gitee.com/xiaoye12123/ws-plugin",
         "author": "@小叶",
         "describe": "提供了云崽通过ws连接onebot标准的机器人 "
-    },
-    {
-        "pathname": "wenan-plugin",
-        "pluginname": "文案插件(wenan-plugin) ",
-        "url": "https://gitee.com/white-night-fox/wenan-plugin",
-        "author": "@白夜狐狸",
-        "describe": "提供了云崽回复类文案 "
-    },
-    {
-        "pathname": "impart-pro-plugin",
-        "pluginname": "牛牛大作战Beta(impart-pro-plugin) ",
-        "url": "https://gitee.com/sumght/impart-pro-plugin",
-        "author": "@sumght",
-        "describe": "牛牛大作战先行测试，男人之间细说的互动玩法(原impart插件) "
-    },
-    {
-        "pathname": "armoe-plugin",
-        "pluginname": "阿尔萌插件 (armoe-plugin)",
-        "url": "https://gitee.com/armoe-project/armoe-plugin",
-        "author": "@真心",
-        "describe": "提供R6战绩查询、KOOK在线查询等功能"
     },
     {
         "pathname": "StarRail-plugin",
@@ -448,39 +686,11 @@
         "describe": "一个Yunzai-Bot V3小功能集成的插件包,集AI、娱乐、功能性于一体，让你的机器人变得更为全面且多功能。"
     },
     {
-        "pathname": "chatztc",
-        "pluginname": "ChatGLM的api插件",
-        "url": "https://gitee.com/394911284/chatztc",
-        "author": "@蓝蓝的青金石",
-        "describe": "这是一个对接ChatGLM的聊天api的云崽bot插件 "
-    },
-    {
         "pathname": "FanSky_Qs",
         "pluginname": "AFanSKyQs插件（FanSky_Qs）",
         "url": "https://github.com/AFanSKyQs/FanSky_Qs",
         "author": " @AFanSKyQs",
         "describe": "提瓦特小助手功能实现(队伍伤害等)、[打卡×魔晶系统]、OpenAI多模型拓展、票房查询、各图包整合收录触发等..."
-    },
-    {
-        "pathname": "call_of_seven_saints",
-        "pluginname": "七圣召唤战绩查询（call_of_seven_saints）",
-        "url": "https://gitee.com/huangshx2001/call_of_seven_saints",
-        "author": "@癫癫博士",
-        "describe": "查询自己七圣召唤胜率以及卡牌喜好，目标用户应该是七圣召唤忠实玩家以及牌佬群机器人 "
-    },
-    {
-        "pathname": "phi-plugin",
-        "pluginname": "屁股肉插件 (phi-plugin)",
-        "url": "https://github.com/catrong/phi-plugin",
-        "author": "@Catrong",
-        "describe": "提供phigros现有曲目的曲目信息查询、个人rks计算、随机phigros曲目等功能 "
-    },
-    {
-        "pathname": "XiaoXuePlugin",
-        "pluginname": "小雪插件 (XiaoXuePlugin)",
-        "url": "https://gitee.com/XueWerY/XiaoXuePlugin",
-        "author": "@XueWerY",
-        "describe": "让bot变得人性化，提升用户和bot的交互体验，提供bot更多的管理，提供更多的依赖库，拓展新功能效率高 "
     },
     {
         "pathname": "rconsole-plugin",
@@ -495,13 +705,6 @@
         "url": "https://gitee.com/Tloml-Starry/Tlon-Sky",
         "author": "@Tloml-Starry",
         "describe": "《光·遇》游戏插件，功能列表[点此查看](https://gitee.com/Tloml-Starry/Tlon-Sky/raw/master/resource/%E5%8A%9F%E8%83%BD%E5%88%97%E8%A1%A8.png) "
-    },
-    {
-        "pathname": "WeLM-plugin",
-        "pluginname": "WeLM对话插件 (WeLM-plugin)",
-        "url": "https://github.com/JD1433223/WeLM-plugin",
-        "author": "@JD",
-        "describe": "提供个性ai问答、提问和续写(chatgpt下下下位替代)功能 "
     },
     {
         "pathname": "ap-plugin",
@@ -532,20 +735,6 @@
         "describe": "ChatGPT问答插件 "
     },
     {
-        "pathname": "liulian-plugin",
-        "pluginname": "榴莲插件 (liulian-plugin)",
-        "url": "https://gitee.com/huifeidemangguomao/liulian-plugin",
-        "author": "@会飞的芒果猫",
-        "describe": "提供原神地下地图、B站推送、插件管理等一些拓展功能及原神/星铁猜角色、娶群友、随机表情、星座运势、话痨统计、天气、多群广播消息等群聊功能(**部分功能需要安装图片加量包以保证正常使用**) "
-    },
-    {
-        "pathname": "zhishui-plugin",
-        "pluginname": "止水插件 (zhishui-plugin)",
-        "url": "https://gitee.com/fjcq/zhishui-plugin",
-        "author": "@止水",
-        "describe": "搜剧插件 "
-    },
-    {
         "pathname": "recreation-plugin",
         "pluginname": "Recreation-plugin",
         "url": "https://github.com/QiuLing0/recreation-plugin",
@@ -553,16 +742,9 @@
         "describe": "基于YunzaiV3.0版本衍生娱乐插件，插件将不断集成娱乐工具 "
     },
     {
-        "pathname": "py-plugin",
-        "pluginname": "Python插件 (py-plugin)",
-        "url": "https://gitee.com/realhuhu/py-plugin",
-        "author": "@realhuhu",
-        "describe": "主要提供nonebot2机器人服务"
-    },
-    {
         "pathname": "TRSS-Plugin",
         "pluginname": "TRSS 插件 (TRSS-Plugin)",
-        "url": "https://Yunzai.TRSS.me",
+        "url": "https://gitee.com/TimeRainStarSky/TRSS-Plugin/",
         "author": "@时雨🌌星空",
         "describe": "图片修复、图片背景去除、原神语音合成、系统信息、二维码生成、米哈游登录、Markdown、代码高亮、远程命令、文件操作、云盘操作 "
     },
@@ -576,16 +758,9 @@
     {
         "pathname": "xiaofei-plugin",
         "pluginname": "小飞插件 (xiaofei-plugin)",
-        "url": "https://github.com/xfdown/xiaofei-plugin",
+        "url": "https://gitee.com/xfdown/xiaofei-plugin",
         "author": "@小飞",
         "describe": "多选点歌、天气查询、原神注册时间查询 "
-    },
-    {
-        "pathname": "l-plugin",
-        "pluginname": "l-plugin",
-        "url": "https://github.com/liuly0322/l-plugin",
-        "author": "@liuly0322",
-        "describe": "塔罗牌，抽签，骰子，今天吃什么，tex图片等 "
     },
     {
         "pathname": "earth-k-plugin",
@@ -593,20 +768,6 @@
         "url": "https://gitee.com/SmallK111407/earth-k-plugin",
         "author": "@地球生物",
         "describe": "提供了猜语音、打我、练习记忆力小游戏，获取游戏内过场动画及角色PV，AI画图，卜卦，图片可视化点歌/视频/小说/漫画，原史（原神角色/圣遗物/武器/NPC等背景故事等）等功能 "
-    },
-    {
-        "pathname": "lin-plugin",
-        "pluginname": "麟插件 (lin-plugin)",
-        "url": "https://gitee.com/go-farther-and-farther/lin-plugin",
-        "author": "@越追越远",
-        "describe": "ai接口以及配置了相关设置的功能，全局点赞、复读打断等智能化工具,发送日志文件，一些查询功能等工具 "
-    },
-    {
-        "pathname": "suiyue",
-        "pluginname": "碎月插件 (suiyue)",
-        "url": "https://gitee.com/Acceleratorsky/suiyue",
-        "author": "@碎月",
-        "describe": "[此插件已跑路，戳我前往喵崽维护版](https://gitee.com/SmallK111407/suiyue)疫情，清晰度提升，搜番，搜磁力，疯狂星期四，计算器 "
     },
     {
         "pathname": "xianxin-plugin",
@@ -621,13 +782,6 @@
         "url": "https://gitee.com/snowtafir/xianxin-plugin",
         "author": "@闲心",
         "describe": "主要适配`TRSS-Yunzai`并兼容`Mizo-yunzai、Yunzai-bot`的集米游社(原神/星穹铁道：cos、wiki、攻略)、微博博主/B站up主 动态推送(支持长图模式)、神秘指令、群战小游戏、五子棋、21点等功能的插件分支"
-    },
-    {
-        "pathname": "zhi-plugin",
-        "pluginname": "白纸插件 (zhi-plugin)",
-        "url": "https://github.com/HeadmasterTan/zhi-plugin",
-        "author": "@HeadmasterTan",
-        "describe": "提供B站动态推送。优化云崽的“添加”功能，可在同一触发词下添加多个回复 "
     },
     {
         "pathname": "achievements-plugin",
@@ -671,385 +825,56 @@
         "author": "@越追越远",
         "describe": "这是一个Yunzai-Bot V3插件包，提供群内各种小游戏以及相关管理工具。"
     },
-    {
-        "pathname": "hs-qiqi-plugin",
-        "pluginname": "枫叶插件(hs-qiqi-plugin)",
-        "url": "https://gitee.com/kesally/hs-qiqi-cv-plugin",
-        "author": "@kesally",
-        "describe": "枫叶插件是一个Yunzai-Bot的扩展插件，给bot提供一些有趣的功能。 "
-    },
-    {
-        "pathname": "Farming-Simulator",
-        "pluginname": "种田模拟器插件(Farming-Simulator)",
-        "url": "https://gitee.com/Tloml-Starry/Farming-Simulator",
-        "author": "@Tloml-Starry",
-        "describe": "种植蔬菜，资金和XP，购买更多种植田地。 "
-    },
-    {
-        "pathname": "Shiranai-plugin",
-        "pluginname": "希腊奶插件(Shiranai-plugin)",
-        "url": "https://github.com/XasYer/Shiranai-Plugin",
-        "author": "@XasYer",
-        "describe": "扫雷，圈小猫，连连看，数字游戏。消灭星星等。 "
-    },
-    {
-        "pathname": "Cookie-plugin",
-        "pluginname": "曲奇点点乐插件(Cookie-plugin)",
-        "url": "https://gitee.com/Tloml-Starry/Cookie-plugin",
-        "author": "@Tloml-Starry",
-        "describe": "建筑商店，购置建筑，领取收益。 "
-    },
-    {
-        "pathname": "Tkdream-1.2",
-        "pluginname": "征途插件(Tkdream-1.2)",
-        "url": "https://gitee.com/AAmiaom/Tkdream-1.2",
-        "author": "@喵",
-        "describe": "三国类型文字游戏,你将在这里扮演主公,招募各种武将和好友组织同盟,一统天下,快来征战沙场吧。 "
-    },
-    {
-        "pathname": "wuzhe-plugn",
-        "pluginname": "武者文游插件(wuzhe-plugn)",
-        "url": "https://gitee.com/xyb12345678qwe/wuzhe-plugn",
-        "author": "@名字",
-        "describe": "云崽的武者文游小游戏。 "
-    },
-    {
-        "pathname": "DDZS-XIUXIAN-V1.3.0",
-        "pluginname": "绝云间修仙V1.3.0(DDZS-XIUXIAN-V1.3.0)",
-        "url": "https://gitee.com/hutao222/DDZS-XIUXIAN-V1.3.0",
-        "author": "@DD斩首",
-        "describe": "新增职业系统:采药师,采矿师,炼器师,炼丹师,猎户。 "
-    },
-    {
-        "pathname": "sanguo-plugin",
-        "pluginname": "三国文游(sanguo-plugin)",
-        "url": "https://gitee.com/xyb12345678qwe/sanguo-plugin",
-        "author": "@名字",
-        "describe": "这是一个以三国题材的文字图片游戏插件。 "
-    },
-    {
+	{
         "pathname": "dg-lab-play-plugin",
         "pluginname": "郊狼控制插件(dg-lab-play-plugin)",
         "url": "https://gitee.com/adrae/dg-lab-play-plugin",
         "author": "@Admilk",
         "describe": "一种控制插件，正常人一般用不上。 "
     },
-    {
-        "pathname": "yjwj-plugin",
-        "pluginname": "永劫无间插件(yjwj-plugin)",
-        "url": "https://gitee.com/njmxye/yjwj-plugin",
-        "author": "@楠寻",
-        "describe": "游戏永劫无间查询功能插件，支持查询永劫无间官方影画廊海报与实机截图、查询端游表情包、获取每日60秒新闻早报等功能。大神战绩查询、永劫无间世界观查询、群聊小游戏、Galgame接入kimi对话等功能正在火热开发中。 "
-    },
-     {
-        "pathname": "cb-plugin",
-        "pluginname": "尘白禁区插件(cb-plugin)",
-        "url": "https://github.com/Sakura1618/cb-plugin",
-        "author": "@Sakura1618",
-        "describe": "游戏尘白禁区查询功能插件，支持查询角色攻略、养成材料、强度榜等功能。 "
-    },
-     {
-        "pathname": "eso",
-        "pluginname": "上古卷轴OL插件(eso)",
-        "url": "https://github.com/ChicorSun/eso",
-        "author": "@Chicor和人",
-        "describe": "游戏上古卷轴OL查询功能插件，支持查询服务器状态、维护公告、装备图鉴、每日日常无畏副本等功能。 "
-    },
-    {
-        "pathname": "sv-plugin",
-        "pluginname": "星露谷插件(sv-plugin)",
-        "url": "https://gitee.com/xingdonglcy/sv-plugin",
-        "author": "@LCY星动",
-        "describe": "简单查询星露谷村民、物品等功能的插件。 "
-    },
-    {
-        "pathname": "Elysian-Realm-plugin",
-        "pluginname": "崩坏三乐土插件(Elysian-Realm-plugin)",
-        "url": "https://github.com/zipated/Elysian-Realm-plugin",
-        "author": "@zipated",
-        "describe": "崩坏3乐土攻略查询插件。 "
-    },
-    {
+	{
         "pathname": "bubble-game",
         "pluginname": "原神猜谜插件(bubble-game)",
         "url": "https://github.com/greatcvs/bubble-game",
         "author": "@greatcvs",
         "describe": "原神的图片猜角色名，语音猜角色名。 "
     },
-    {
-        "pathname": "fufu-plugin",
-        "pluginname": "芙芙插件(fufu-plugin)",
-        "url": "https://gitee.com/trubin/fufu-plugin",
-        "author": "@Trubin",
-        "describe": "B站解析，原神体力，复读。 "
-    },
-    {
-        "pathname": "hl-ly-plugin",
-        "pluginname": "狐狸插件(hl-ly-plugin)",
-        "url": "https://gitee.com/fox-glaze/hl-ly-plugin",
-        "author": "@狐狸",
-        "describe": "提供随机二次元图片/三次元视频，快捷群管等功能。 "
-    },
-    {
-        "pathname": "kkkkkk-10086",
-        "pluginname": "kkkkkk插件(kkkkkk-10086)",
-        "url": "https://gitee.com/ikenxuan/kkkkkk-10086",
-        "author": "@ikenxuan",
-        "describe": "抖音，快手，B站解析，图集，评论作品定时推送。 "
-    },
-    {
-        "pathname": "Koinori",
-        "pluginname": "云冰祈插件(Koinori)",
-        "url": "https://gitee.com/Yuzichai/Koinori",
-        "author": "@Yuzichai",
-        "describe": "搭建于云端，集娱乐与管理功能于一体的轻量化插件，提供碧蓝档案、Arcaea等wiki查询。 "
-    },
-    {
-        "pathname": "Circle-money-run-plugin",
-        "pluginname": "跑路插件(Circle-money-run-plugin)",
-        "url": "https://gitee.com/Circle-money-run/Circle-money-run-plugin",
-        "author": "@瑜笙",
-        "describe": "一键卸载，禁言嘲讽，网页截图，拒绝at艾特全体，随机图片。 "
-    },
-    {
-        "pathname": "olympic-plugin",
-        "pluginname": "奥运插件(olympic-plugin)",
-        "url": "https://gitee.com/xiaomifan233/olympic-plugin",
-        "author": "@小米饭",
-        "describe": "查询迄今为止前16个国家或地区的奖牌榜，查询某个国家或地区的奖牌详情，查询今日的全部或中国或金牌赛事的赛程。 "
-    },
-    {
-        "pathname": "memz-plugin",
-        "pluginname": "memz插件(memz-plugin)",
-        "url": "https://github.com/MEMLTS/memz-plugin",
-        "author": "@MEMZ",
-        "describe": "查询steam喜加一，状态统计，系统状态，查询币种,返回此币种价格网页截图，站长工具箱，随机男娘图片等。 "
-    },
-    {
-        "pathname": "Better-RC",
-        "pluginname": "执行任意命令插件(Better-RC)",
-        "url": "https://gitee.com/Vremq_vperyod/better-rc",
-        "author": "@Vremq_vperyod",
-        "describe": "Yunzai插件：更好的远程命令 你还在为TRSS-Yunzai无法互动执行命令困扰吗？你还在为如何教群友python苦恼吗？试试这个。 "
-    },
-    {
-        "pathname": "Bread-Shop",
-        "pluginname": "面包商店插件(Bread-Shop)",
-        "url": "https://gitee.com/Tloml-Starry/Bread-Shop",
-        "author": "@Tloml-Starry",
-        "describe": "由nonebot-plugin-bread-shop修改制作的Yunzai特供版本，面包小游戏，用户可以通过“买”，“吃”，“抢”，“送”，”猜拳“操作来获取面包和使用面包。一起来买面包吧！本插件不适宜用于群人员较多的群，经过测试，本功能具有极大上瘾性(比如修仙)，容易造成bot刷屏，影响正常聊天！建议建立专门的Bot游戏游玩群。 "
-    },
-    {
-        "pathname": "Esca-plugin",
-        "pluginname": "Esca-plugin插件(Esca-plugin)",
-        "url": "https://github.com/hzqlingmou/esca-plugin",
-        "author": "@渔火Arcadia",
-        "describe": "娱乐性插件，提供随机图/视频，备案查询，语音合成等功能。 "
-    },
-    {
-        "pathname": "bujidao",
-        "pluginname": "bujidao插件(bujidao)",
-        "url": "https://github.com/kissnavel/bujidaoRUN",
-        "author": "@kissnavel",
-        "describe": "已添加国际服支持，建议仅保留签到功能，用锅巴插件屏蔽其他功能，其他功能有更好的替代。 "
-    },
-    {
-        "pathname": "GT-Manual",
-        "pluginname": "米哈游验证插件(GT-Manual)",
-        "url": "https://gitee.com/haanxuan/GT-Manual",
-        "author": "@XxxXl",
-        "describe": "米游社手动验证。 "
-    },
-    {
+	{
         "pathname": "Jiaozi-plugin",
         "pluginname": "饺子插件(Jiaozi-plugin)",
         "url": "https://gitee.com/tu-zhengxiong0925/jiaozi-plugin",
         "author": "@饺子",
         "describe": "壁纸，刷步数，群前缀，插件安装器。 "
     },
-    {
-        "pathname": "San-plugin",
-        "pluginname": "散插件(San-plugin)",
-        "url": "https://gitee.com/San-luo/San-plugin",
-        "author": "@散",
-        "describe": "天气，截图，给主人留言。 "
-    },
-    {
-        "pathname": "luoluo-plugin",
-        "pluginname": "luoluo插件(luoluo-plugin)",
-        "url": "https://gitee.com/yll0614/luoluo-plugin",
-        "author": "@叶落落",
-        "describe": "娱乐性插件 提供随机动漫图 哔哩哔哩视频解析 Ping等功能。 "
-    },
-    {
-        "pathname": "yuki-plugin",
-        "pluginname": "优纪插件(yuki-plugin)",
-        "url": "https://gitee.com/snowtafir/yuki-plugin",
-        "author": "@snowtafir",
-        "describe": "一个适用于 Yunzai (Miao/Trss/Next) 系列机器人框架 的B站动态和微博动态订阅推送插件。 "
-    },
-    {
-        "pathname": "ark-plugin",
-        "pluginname": "Ark插件(ark-plugin)",
-        "url": "https://github.com/NotIvny/ark-plugin",
-        "author": "@NotIvny",
-        "describe": "为喵喵插件提供总排名与排名统计，不再局限于群排名的插件，兼容梁氏 "
-    },
-    {
-        "pathname": "Slave-Market",
-        "pluginname": "群友市场(Slave-Market)",
-        "url": "https://gitee.com/Tloml-Starry/Slave-Market",
-        "author": "@Tloml-Starry",
-        "describe": "群友之间的增温小游戏，购买群友来替你打工，然后买下更多群友 "
-    },
-    {
-        "pathname": "Slave-Market",
-        "pluginname": "群友市场魔改版(Slave-Market)",
-        "url": "https://gitee.com/nanxu2019/Slave-Market",
-        "author": "@nanxu2019",
-        "describe": "相较于Tloml-Starry的原版，增加了贷、还款功能，并计算了利息，用黑奴打工的钱买更多的黑奴，他不香吗？更多功能待续。。。 "
-    },
-    {
-        "pathname": "micro-plugin",
-        "pluginname": "小微插件(micro-plugin)",
-        "url": "https://github.com/V2233/micro-plugin",
-        "author": "@Smallv",
-        "describe": "Yunzai开发管理面板，可在线生成简易插件、编辑图片、仿真QQ沙盒测试、数据库管理、文件管理、代码编辑、配置编辑、onebot连接、终端ssh连接等 "
-    },
-    {
-        "pathname": "Lain-plugin",
-        "pluginname": "铃音插件(Lain-plugin)",
-        "url": "https://gitee.com/sky-summer/Lain-plugin",
-        "author": "@天空_夏日",
-        "describe": "围绕云崽Yunzai-Bot开发的多适配器插件，让喵崽接入QQ频道、微信、shamrock等三方平台~，不再局限于ICQQ"
-    },
-    {
+	{
         "pathname": "hl-picture-plugin",
         "pluginname": "狐璃插件(hl-picture-plugin)",
         "url": "https://gitee.com/fox-glaze/hl-picture-plugin",
         "author": "@狐璃",
         "describe": "上传群友图片保存到云崽目录下的娱乐插件"
     },
-    {
+	{
         "pathname": "button",
         "pluginname": "按钮插件(button)",
         "url": "https://gitee.com/Tloml-Starry/Button",
         "author": "@Tloml-Starry",
         "describe": "给你一个按钮，你是按下，还是不按下（远程更新按钮，未来将增加更多按钮，可发起PR）"
     },
-    {
-        "pathname": "yunzai-plugin-deer-pipe",
-        "pluginname": "撸管插件(yunzai-plugin-deer-pipe)",
-        "url": "https://gitee.com/kyrzy0416/yunzai-plugin-deer-pipe",
-        "author": "@zhiyu",
-        "describe": "✨ 每月🦌管签到 ✨"
-    },
-    {
-        "pathname": "qiqi-plugin",
-        "pluginname": "崩三插件(qiqi-plugin)",
-        "url": "https://gitee.com/gu-qii/qiqi-plugin",
-        "author": "@可乐不加冰",
-        "describe": "为Yunzai-Bot提供崩三信息查询"
-    },
-    {
-        "pathname": "YePanel-plugin",
-        "pluginname": "小叶面板插件(YePanel-plugin)",
-        "url": "https://github.com/XasYer/YePanel",
-        "author": "@小叶",
-        "describe": "提供 web 面板管理功能"
-    },
-    {
-        "pathname": "siliconflow-plugin",
-        "pluginname": "SF-插件(siliconflow-plugin)",
-        "url": "https://github.com/AIGC-Yunzai/siliconflow-plugin",
-        "author": "@Misaka20002@syfantasy",
-        "describe": "基于 Yunzai 的 AIGC 插件，使用 siliconflow 等接口进行如 Flux 免费绘图和 LLM 推理等"
-    },
-    {
-        "pathname": "icqq-monitoring-plugin",
-        "pluginname": "ICQQ监测插件(icqq-monitoring-plugin)",
-        "url": "https://gitee.com/xrk114514/icqq-monitoring-plugin",
-        "author": "@xrk114514",
-        "describe": "基于icqq的自动换签名插件，签名寄了自己换。"
-    },
-    {
-        "pathname": "GloryOfKings-Plugin",
-        "pluginname": "GloryOfKings-Plugin(GloryOfKings-Plugin)",
-        "url": "https://gitee.com/Tloml-Starry/GloryOfKings-Plugin",
-        "author": "@Tloml-Starry",
-        "describe": "通过扫码登录获取王者营地Token来查询战绩和主页信息等，更多功能王者相关功能正在制作 "
-    },
-    {
-        "pathname": "steam-plugin",
-        "pluginname": "steam-plugin(steam-plugin)",
-        "url": "https://gitee.com/xiaoye12123/steam-plugin",
-        "author": "@小叶",
-        "describe": "steam群友状态播报,steam 库存,steam愿望单等功能"
-    },
-    {
-        "pathname": "clarity-meme",
-        "pluginname": "clarity-meme(clarity-meme)",
-        "url": "https://github.com/wuliya336/clarity-meme",
-        "author": "@wuliya336",
-        "describe": "一个Yunzai-Bot V3插件,表情包合成"
-    },
-    {
+	{
         "pathname": "mctool-plugin",
         "pluginname": "MC工具箱插件(mctool-plugin)",
         "url": "https://github.com/Dnyo666/mctool-plugin",
         "author": "@Dnyo666",
         "describe": "基于 Yunzai-Bot v3 的 Minecraft 服务器管理插件，支持服务器状态查询、玩家绑定、进群验证等功能。"
     },
-    {
-        "pathname": "maimai-plugin",
-        "pluginname": "DX查分器插件(maimai-plugin)",
-        "url": "https://github.com/A1Panda/maimai-plugin",
-        "author": "@A1Panda",
-        "describe": "一个基于落雪DX查分器，支持查询玩家信息、好友码绑定、查询50首歌曲、查询50首歌曲的DX Rating。"
-    },
-    {
+	{
         "pathname": "pixiv-plugin",
         "pluginname": "pixiv解析插件(pixiv-plugin)",
         "url": "https://github.com/admilkjs/pixiv-plugin",
         "author": "@admilk",
         "describe": "解析pixiv小说内容,解析pixiv小说系列等功能。"
     },
-    {
-        "pathname": "mcsmanager-plugin",
-        "pluginname": "MCSManager 管理插件(mcsmanager-plugin)",
-        "url": "https://github.com/A1Panda/mcsmanager-plugin",
-        "author": "@A1_Panda",
-        "describe": "基于 Yunzai-Bot v3 的 MCSManager 服务器管理插件，提供完整的远程控制和监控功能。"
-    },
-    {
-        "pathname": "meme-plugin",
-        "pluginname": "meme-plugin表情插件(meme-plugin)",
-        "url": "https://github.com/ClarityJS/meme-plugin",
-        "author": "@ClarityJS",
-        "describe": "清语表情是一个 Yunzai-Bot|Karin的扩展插件,提供表情包合成等功能。。"
-    },
-    {
-        "pathname": "bxianx-plugin",
-        "pluginname": "bxianx-plugin插件(bxianx-plugin)",
-        "url": "https://github.com/bxianxo/bxianx-plugin",
-        "author": "@庆",
-        "describe": "网络查询工具，多类API远程查询控制功能。。"
-    },
-    {
-        "pathname": "juhkff-plugin",
-        "pluginname": "juhkff-plugin插件(juhkff-plugin)",
-        "url": "https://github.com/juhkff/juhkff-plugin",
-        "author": "@扎克芙芙",
-        "describe": "主动回复群聊、表情偷取、日报推送等综合功能插件。"
-    },
-    {
-        "pathname": "Bili-Plugin",
-        "pluginname": "Bili-Plugin插件(Bili-Plugin)",
-        "url": "https://github.com/miltrbefr/Bili-Plugin",
-        "author": "@miltrbefr",
-        "describe": "B站插件,B站登录 我的B站 B站签到,发送弹幕 监听直播间所有信息,快捷操作视频(点赞/收藏等) 快捷关注UP野收官方帮助 日签打卡 自动群幸运字符等。"
-    },
-    {
+	{
         "pathname": "Yunzai-TomyJan-Plugin",
         "pluginname": "TJ插件(Yunzai-TomyJan-Plugin)",
         "url": "https://github.com/TomyJan/Yunzai-TomyJan-Plugin",
@@ -1057,17 +882,10 @@
         "describe": "目前仅有禁漫天堂下载功能。"
     },
     {
-        "pathname": "Napcat_Plugin",
-        "pluginname": "Napcat管理插件(Napcat_Plugin)",
-        "url": "https://github.com/A1Panda/Napcat_Plugin",
-        "author": "@A1Panda",
-        "describe": "Napcat 管理插件是一个基于 Yunzai-Bot 的扩展，提供了通过 QQ 机器人远程管理 Napcat 服务的能力。通过简单的指令，机器人主人可以轻松管理多个 Napcat 实例，包括启动、停止、重启、查看日志等操作。"
-    },
-    {
-        "pathname": "xitian-plugin",
-        "pluginname": "戏天插件(xitian-plugin)",
-        "url": "https://gitee.com/XiTianGame/xitian-plugin",
-        "author": "@戏舞天殇",
-        "describe": "Yunzai-Bot V3 的插件 为用户提供插件管理功能 js插件可以从插件库或其他渠道获取 "
+        "pathname": "hs-qiqi-plugin",
+        "pluginname": "枫叶插件(hs-qiqi-plugin)",
+        "url": "https://gitee.com/kesally/hs-qiqi-cv-plugin",
+        "author": "@kesally@七七",
+        "describe": "枫叶插件是一个Yunzai-Bot的扩展插件，给bot提供一些有趣的功能。 "
     }
  ]
