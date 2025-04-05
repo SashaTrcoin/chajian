@@ -1056,14 +1056,21 @@
         "author": "@admilk",
         "describe": "解析pixiv小说内容,解析pixiv小说系列等功能。"
     },
-	{
+    {
         "pathname": "Yunzai-TomyJan-Plugin",
         "pluginname": "TJ插件(Yunzai-TomyJan-Plugin)",
         "url": "https://github.com/TomyJan/Yunzai-TomyJan-Plugin",
         "author": "@TomyJan",
         "describe": "目前仅有禁漫天堂下载功能。"
     },
-	{
+    {
+        "pathname": "Chat-plugin",
+        "pluginname": "Ai插件(Chat-plugin)",
+        "url": "https://github.com/HDTianRu/Chat-plugin",
+        "author": "@HDTianRu",
+        "describe": "一个由AI写的AI插件"
+    },
+    {
         "pathname": "xitian-plugin",
         "pluginname": "戏天插件(xitian-plugin)",
         "url": "https://gitee.com/XiTianGame/xitian-plugin",
