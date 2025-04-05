@@ -247,7 +247,7 @@
     {
         "pathname": "liangshi-calc",
         "pluginname": "梁氏插件(liangshi-calc)",
-        "url": "https://gitee.com/liangshi233/liangshi-calc",
+        "url": "https://github.com/liangshi233/liangshi-calc",
         "author": "@liangshi",
         "describe": "miao-plugin的面板拓展插件"
     },
