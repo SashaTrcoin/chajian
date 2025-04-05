@@ -1071,6 +1071,13 @@
         "describe": "一个由AI写的AI插件"
     },
     {
+        "pathname": "PUBG_Plugin",
+        "pluginname": "PUBG战绩查询插件(PUBG_Plugin)",
+        "url": "https://github.com/A1Panda/PUBG_Plugin",
+        "author": "@A1Panda",
+        "describe": "PUBG Plugin是一个为Yunzai-Bot开发的绝地求生(PUBG)游戏数据查询插件，它允许用户在QQ群中查询玩家战绩、武器数据，并提供精美的数据可视化。"
+    },
+    {
         "pathname": "xitian-plugin",
         "pluginname": "戏天插件(xitian-plugin)",
         "url": "https://gitee.com/XiTianGame/xitian-plugin",
