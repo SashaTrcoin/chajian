@@ -1085,6 +1085,13 @@
         "describe": "让你在QQ群中体验充满惊喜和欢乐的模拟人生玩法！是不是很心动呢？无论是成为帅气的警察打击犯罪，还是当一名超厉害的厨师烹饪美食，亦或是在网吧度过悠闲的时光，都能在这里找到属于你的梦想职业道路！让我们一起在模拟世界中创造属于自己的小确幸吧~"
     },
     {
+        "pathname": "Xtower-Plugin",
+        "pluginname": "随机歌词与聪明Bingo插件(Xtower-Plugin)",
+        "url": "https://gitee.com/sczr/Xtower-Plugin",
+        "author": "@sczr",
+        "describe": "Xtower-Plugin 是一个原有的 JS 功能集成 Plugin，包括了随机歌词与聪明 Bingo 功能，后续可能会继续添加。"
+    },
+    {
         "pathname": "xitian-plugin",
         "pluginname": "戏天插件(xitian-plugin)",
         "url": "https://gitee.com/XiTianGame/xitian-plugin",
