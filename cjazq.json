@@ -1092,6 +1092,27 @@
         "describe": "Xtower-Plugin 是一个原有的 JS 功能集成 Plugin，包括了随机歌词与聪明 Bingo 功能，后续可能会继续添加。"
     },
     {
+        "pathname": "GroupEntry_Plugin",
+        "pluginname": "群组邀请管理插件(GroupEntry_Plugin)",
+        "url": "https://github.com/A1Panda/GroupEntry_Plugin",
+        "author": "@A1Panda",
+        "describe": "一个适用于 Yunzai-Bot 的高安全性群组邀请管理插件，支持灵活配置、锅巴面板可视化管理，适合多群机器人场景下的加群审核与风控。 "
+    },
+    {
+        "pathname": "xingluo-plugin",
+        "pluginname": "星落插件xingluo-plugin)",
+        "url": "https://gitee.com/yll14/xingluo-plugin",
+        "author": "@yll14",
+        "describe": "一言,每日热搜,ping地址,查看近期谁艾特过我,获取随机表情包 "
+    },
+    {
+        "pathname": "napcat-adapter",
+        "pluginname": "NapCat适配器插件(xitian-plugin)",
+        "url": "https://gitee.com/qiannqq/napcat-adapter",
+        "author": "@千奈千祁",
+        "describe": "兼容Miapo-Yunzai的NapCat.OneBot适配器"
+    },
+    {
         "pathname": "xitian-plugin",
         "pluginname": "戏天插件(xitian-plugin)",
         "url": "https://gitee.com/XiTianGame/xitian-plugin",
