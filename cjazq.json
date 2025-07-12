@@ -1113,10 +1113,45 @@
         "describe": "兼容Miapo-Yunzai的NapCat.OneBot适配器"
     },
     {
+        "pathname": "Hack-Plugin",
+        "pluginname": "Hack-Plugin插件(Hack-Plugin)",
+        "url": "https://github.com/admilkjs/hack-plugin",
+        "author": "@Admilk",
+        "describe": "为TRSS-Yunzai,Miao-Yunzai提供发送raw消息的能力"
+    },
+    {
+        "pathname": "Notice-plugin",
+        "pluginname": "公告插件(Notice-plugin)",
+        "url": "https://gitee.com/tttfff/notice-plugin",
+        "author": "@QingYing",
+        "describe": "一款提供群发公告功能的插件"
+    },
+    {
+        "pathname": "GamePush-plugin",
+        "pluginname": "监控插件(GamePush-plugin)",
+        "url": "https://github.com/rainbowwarmth/GamePush-Plugin",
+        "author": "@rainbowwarmth",
+        "describe": "实时监控游戏版本更新，用于检测原神、星铁、绝区零、崩坏3、鸣潮游戏版本更新状态的插件"
+    },
+    {
+        "pathname": "Poke-plugin",
+        "pluginname": "戳戳榜插件(Poke-plugin)",
+        "url": "https://gitee.com/tttfff/poke-plugin",
+        "author": "@QingYing",
+        "describe": "一款提供统计戳一戳的插件"
+    },
+    {
+        "pathname": "cyxz-Plugin",
+        "pluginname": "次元小镇的各类图片插件cyxz-Plugin)",
+        "url": "https://github.com/xiaotian2333/cyxz-plugin",
+        "author": "@xiaotian2333",
+        "describe": "抓取次元小镇的各类图片的插件"
+    },
+    {
         "pathname": "xitian-plugin",
         "pluginname": "戏天插件(xitian-plugin)",
         "url": "https://gitee.com/XiTianGame/xitian-plugin",
-        "author": "@戏舞天殇",
+        "author": "@XiTianGame",
         "describe": "Yunzai-Bot V3 的插件 为用户提供插件管理功能 js插件可以从插件库或其他渠道获取 "
     },
     {
