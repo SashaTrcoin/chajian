@@ -1148,6 +1148,13 @@
         "describe": "抓取次元小镇的各类图片的插件"
     },
     {
+        "pathname": "trss-akasha-terminal-plugin",
+        "pluginname": "虚空插件trss版 (trss-akasha-terminal-plugin)",
+        "url": "https://gitee.com/dmqaq/trss-akasha-terminal-plugin",
+        "author": "@我不能倒霉 @越追越远",
+        "describe": "一个功能丰富的Yunzai-Bot插件（trss&miao双版本开发版），提供完整的游戏系统、MySQL数据库&JSON存储双支持和Web管理界面） "
+    },
+    {
         "pathname": "xitian-plugin",
         "pluginname": "戏天插件(xitian-plugin)",
         "url": "https://gitee.com/XiTianGame/xitian-plugin",
